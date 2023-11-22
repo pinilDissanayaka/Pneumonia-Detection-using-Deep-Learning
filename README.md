@@ -21,4 +21,5 @@ Pneumonia is a common and potentially serious lung infection that can be diagnos
 
 ## Dataset
 Describe the dataset used for training and testing the model. Include details such as the number of images, classes, and any preprocessing steps applied.
+
 Dataset is available here : https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
